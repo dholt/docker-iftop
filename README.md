@@ -1,4 +1,4 @@
-# docker-iftop
+# Docker iftop
 
 iftop in a container
 
